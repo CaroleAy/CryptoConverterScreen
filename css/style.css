@@ -1,0 +1,79 @@
+﻿body {
+    font-family: Nunito,Arial, Helvetica, sans-serif;
+}
+
+.myapp {
+    width: 320px;
+    height: 452px;
+    margin-left: 30%;
+
+}
+
+
+.header {
+    width: 100%;
+    display:flex;
+    height:40px;
+    background-color: #183DA7;
+    align-items:center;
+}
+
+.edit {
+    width: 60%;
+    align-self: center;
+    text-align: right;
+    padding-right:16%;
+}
+
+
+.currency {
+    height: 60px;
+    display: flex;
+    border: 1px solid #979797;
+    background-color: #818497;
+    color:white;
+}
+.money {
+    width : 35%;
+    align-self:center;
+    text-align:center;
+    
+}
+
+.value {
+    padding-left: 6%;
+}
+
+.icon {
+    text-align: center;
+
+}
+
+.number {
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    display: flex;
+    background-color: #5D96DF;
+    color:white;
+}
+
+.digit {
+    width: 33%;
+    align-self: center;
+    text-align: center;
+   
+}
+
+
+
+
+/* Rectangle 2: */
+
+
+
+
+
+
+
+
